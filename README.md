@@ -1,6 +1,6 @@
 # Bubble-Loader-HTML-CSS
 
-Download the code and Open in Vs Code. 
+Download the Code and Open in Vs Code. 
 
 Run on Live-Server.
 
