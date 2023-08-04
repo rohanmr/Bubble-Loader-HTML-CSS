@@ -1,6 +1,8 @@
 # Bubble-Loader-HTML-CSS
 
-Download the Code and Open in Vs Code. 
+Download the Code and Open it in Vs Code. 
+
+Install VS Code Extension Live Server.
 
 Run on Live-Server.
 
